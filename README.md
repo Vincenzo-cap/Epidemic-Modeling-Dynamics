@@ -19,5 +19,6 @@ Questo progetto esplora la diffusione delle epidemie attraverso l'analisi e la s
 - `epidemic_simulation.ipynb`: Notebook principale con il codice e i commenti tecnici.
 - `presentation.pdf`: Presentazione tecnica dei risultati e dei grafici di evoluzione.
 
+- [Leggi la Presentazione Tecnica (PDF)](Simulazione_epidemiologica.pdf)
 ---
 *Progetto realizzato nell'ambito del corso di Metodi computazionali della fisica.*
