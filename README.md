@@ -18,7 +18,14 @@ Questo progetto esplora la diffusione delle epidemie attraverso l'analisi e la s
 ##  Contenuto del Repository
 - `epidemic_simulation.ipynb`: Notebook principale con il codice e i commenti tecnici.
 - `presentation.pdf`: Presentazione tecnica dei risultati e dei grafici di evoluzione.
+## Navigazione Rapida
+Clicca sui link per aprire direttamente i notebook con i risultati:
 
+* [Modelli SIR Stocastici](notebooks/01_SIR_Stochastic_Basics.ipynb)
+* [Analisi delle Topologie di Rete](notebooks/02_Network_Topologies_Analysis.ipynb)
+* [Esponenti di Lyapunov e Stabilità](notebooks/03_Lyapunov_and_Map_Dynamics.ipynb)
+* [Reti Sparse e Matrici CSR](notebooks/04_Sparse_Networks_Epidemics.ipynb)
+* [Modello Finale con Mortalità](notebooks/05_Advanced_Mortality_Stackplots.ipynb)
 - [Leggi la Presentazione Tecnica (PDF)](Simulazione_epidemiologica.pdf)
 ---
 *Progetto realizzato nell'ambito del corso di Metodi computazionali della fisica.*
